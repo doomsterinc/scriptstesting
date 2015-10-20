@@ -24,4 +24,3 @@ def dumpsgdb (user,host,passwd,*databases):
 		os.system(msg_log)
 
 dumpsgdb(‘usuario’,’nome-do-host-do-servidor.com.br’,’senha-do-usuario’,’db1′,’db2′,’db3′,’db4′)
-		
