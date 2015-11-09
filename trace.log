@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "teste.py", line 110, in <module>
+    list.append(int(input("digite um numero: ")))
+TypeError: int() argument must be a string or a number, not 'exceptions.ZeroDivisionError'
